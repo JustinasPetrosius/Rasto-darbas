@@ -1,0 +1,159 @@
+---
+author: "Justinas Petrošius"
+date: '2019-06-17  '
+output:
+  pdf_document:
+    includes:
+      in_header: header_lt_text.txt
+  html_document:
+    df_print: paged
+title: "Mokesčių rojus: nauda ar žala valstybei ir jos žmonėms"
+bibliography: bibliography.bib
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,collapse= TRUE, error = TRUE, warning=FALSE, message = FALSE, cache = TRUE)
+```
+#Turinys
+
+###1. Įvadas
+###2. Dėstymas
+####2.1 Teigiami mokesčių rojaus padariniai
+####2.2 Neigiami mokesčių rojaus padariniai
+####2.3 Pasaulio reakciją į mokesčių rojus
+###3. Išvados
+
+<P style="page-break-before: always">
+\newpage
+
+#1. Įvadas
+  Norint kalbėti apie mokesčių rojaus šalis ir jų padarinius,  reikia žinoti, kas yra mokesčių rojus. Pagal Corporate Finance Institute mokesčių rojus – „citata“ tai bet kokia pasaulio valstybė ar jurisdikcija, kuri siūlo patrauklius mokesčius užsienio įmonėms. Mokesčių rojaus šalys nereikalauja verslams operuoti iš jų šalies ar gyventi jose, kad jos galėtų džiaugtis mokesčių privalumais. Šią sąvoką puikiai papildo autorius Nicholas Shaxon: „citata “ – Šalis nėra mokesčių rojus vien dėl mažų mokesčių. Mokesčių rojaus ypatybė yra ta, jog čia vyrauja finansinės informacijos neskaidrumas ir slaptumas. Būtent dėl to mokesčių rojaus šalys kartais yra minimos kaip slaptumo jurisdikcijomis @globalfinancialintegrity. Šios šalys neatleidžia ofšorinių įmonių visiškai nuo mokesčių – jos teikia mažesnius mokesčius nei kitos valstybės. Taip pat šios valstybės gali pareikalauti įmokos už naujų įmonių registraciją bei kiekvienais metais įmokų už atsinaujinančias rinkliavas @jrasd . OECD (organization for Economic Cooperation and Development) 1998 metais pateikė kelis kriterijus, kurie apibūdina mokesčių rojaus šalis. Vieni iš populiariausių faktorių yra – nulinis arba nominalus pelno mokestis, trūkumai efektyviems informacijos mainams ir skaidrumo nebuvimas. Šiuos kriterijus atitinka tokios šalys kaip Bermuda, Nyderlandai, Liuksemburgas, Kaimanų salos, Airija (nurodoma kaip mokesčių rojus, nors šalies vyriausybė tai neigia).
+
+
+Darbo aktualumas: Šiuo metu mokesčių rojaus šalys užima dominuojančias pozicijas grafikuose, tokiuose kaip BVP vienam gyventojui. Iš pirmo žvilgsnio gali pasirodyti, kad būti mokesčių rojaus valstybe yra didelis privalumas. Dažnas socialinių tinklų komentatorius, kuris nenusimano apie ekonomiką, siūlo Lietuvai mažinti mokesčius ir tapti mokesčių rojaus valstybe. Nors tai yra tik nenusimanančių žmonių plepalai, visuomenė turi žinoti ir trūkumus, kuriuos sukelia toks valstybės statusas.
+
+Darbo objektas: Mokesčių rojus – nauda ar žala valstybei ir jos žmonėms.
+
+Darbo tikslas: Išanalizuoti mokesčių rojaus teigiamus ir neigiamus dalykus.
+
+
+##Darbo uždaviniai:
+1. Aptarti, kokią žalą patiria žmonės gyvenantys mokesčių rojaus šalyje;
+2. Išskirti mokesčių rojaus teigiamus padarinius;
+3. Išsiaiškinti, ar statistiniai duomenys atitinka realybę šalyje. 
+
+<P style="page-break-before: always">
+\newpage
+
+#2.1 Mokesčių rojaus teigiami padariniai
+  Išsiaiškinę mokesčių rojaus sąvoką, nesunkiai galime suprasti, kad šis rojus yra korporacijoms ir įmonių savininkams. Didžiosios korporacijos perkelia savo „pašto dėžutes“ į ofšorines valstybes, taip išvengdamos didžiulių savo šalies mokesčių. Vienas iš populiariausių pavyzdžių yra Apple kompanija, kuri naudoja Airiją kaip savo mokesčių rojų ir yra išsiuntusi apie 214.9 milijardų dolerių į šia valstybę. Taip Apple kompanija sutaupo apie 65.4 milijardų dolerių, kuriuos kitu atveju – sumokėtų JAV valstybei kaip pelno mokestį @corporatefinanceinstitute. Tarp tokių gigantų kaip Apple galime išvysti ir tokias kompanijas kaip Nike, Goldman Sachs, Microsoft ir kt. Visos šios korporacijos net neslepia, kad jos naudojasi mokesčių rojais norėdamos optimizuoti mokesčius, nes tai yra visiškai legalu ir nėra mokesčių vengimas, kuris yra nelegalus.
+  
+  Tačiau ne tik korporacijos pasipelno iš mažų mokesčių, bet ir pačios valstybės, kurios jas teikia. Kaip ir minėjau anksčiau, ofšorinės šalys taiko registracijos mokestį naujoms įmonėms, o senbuvės moka metines rinkliavas kiekvienais metais. Galbūt ši metinė rinkliava ir nėra tokia didelė, tačiau ji ir neturi būti didelė, nes pagal IMF (International Monetary Fund) išleistą straipsnį, Mergelių salose yra registruota daugiau nei 600000 įmonių, o „The Guardian“ skelbia, kad Kaimanų salose yra registruota daugiau nei 100000. Kad tai suvoktume paprasčiau, kiekvienam salos gyventojui tenka dvi įmonės.
+  
+
+#2.2 Mokesčių rojaus neigiami padariniai
+  Kad ir kiek teigiamų padarinių turėtų mokesčių rojus, jie niekada nenusvers neigiamų pasekmių. Neigiami padariniai paveikia visus: nuo paprastų individų, gyvenančių mokesčių rojaus šalyse, iki valstybių, kurios praranda didelę dalį mokesčių dėl įmonių, kurios tvarko savo finansus per ofšorines valstybes. Didžiausias pralaimėtojas šiame žaidime yra besivystančios valstybės. Nors valstybės ir turi natūraliuosius išteklius, kurie turėtų jiems padėti ekonomiškai ir politiškai, tačiau nei vienai iš šių valstybių neišeina to padaryti. Nafta Gabone, varis Zambijoje, auksas Mozambikoje ir Siera Leonėje – visi šie išvardinti mineralai nepadėjo šioms valstybėms pasiekti ekonominio šuolio ir stabilumo. Šioms valstybėms ir jos žmonėms tai atnešė skurdą ir korupciją jų šalyje. Ekonomistai tai vadina „išteklių prakeiksmu“ („the resource curse“). Negana to, šios šalys kenčia ir dėl mokesčių rojų egzistavimo. John Christensen sakė: „Mes manome, kad Afrika yra didžiulė skolininkė visam pasauliui. 2008 bendra Afrikos skola siekė 177 milijardo dolerių, tačiau pinigų kiekis, kurį elitas išvežė iš šių valstybių į ofšorines valstybes nuo 1970 iki 2008, siekia apie 944 milijardus dolerių. Tai yra 5 kartus daugiau nei 2008 metų skola. Taigi galime daryti prielaidą, kad Afrika nėra pasaulio debetininkė, o pasaulio kreditorė“. Dėl viso Afrikos kapitalo pasitraukimo iš jos šalių, Afrikos valstybės skolinosi pinigus iš tarptautinių bankų su aukšta palūkanų norma. Taip tęsiasi begalinis ratas, kuris neturi pabaigos ir iš visos šios istorijos tik elitas ir korumpuoti politikai pasipelno iš to.
+  
+  Deja, bet nuo šio reiškinio nukenčia ne tik besivystančios šalys, bet ir patys mokesčių rojai. Šį reiškinį ekonomistai vadina „finansiniu prakeiksmu“ („the finance curse“). Kai finansinis prakeiksmas pasireiškia valstybėse, tai jos tampa suinteresuotos rūpintis tų žmonių reikalais, kurie ten net negyvena, taip darydami žalą savo gyventojams. Šių valstybių teikiamos paslaugos teikia naudą ir gina kosmopolitų turtus, bet visi šie turtai niekada nesuplaukia vietiniams gamintojams. Šis prakeiksmas tautas veda prie didėjančio smurto ir nusikalstamumo valstybėje. „Kai važinėjau per mokesčių rojų valstybes, susidūriau su keliais incidentais, įskaitant ir vagystę Kuko Salose. Vietinis žvejas man pasakė, kad didėjantys apiplėšimai ir vagystės pradėjo augti kartu su ofšorinėmis industrijomis. Žvejas pasakė, kad jie turi mūsų vyriausybę savo kišenėse“ – rašė @harrington2016tax.
+  
+  
+```{r, echo=F}
+if(!require("readxl")){
+    install.packages("readxl")
+    library(readxl)
+}
+if(!require("ggplot2")){
+    install.packages("ggplot2")
+    library("ggplot2")
+}
+
+```
+
+```{r, echo=F}
+#Panamos žmogžudysčių grafikas ir GDP augimas
+
+data <- read_xlsx("./data/PanamaHomicides.xlsx", col_names = T) 
+
+
+ggplot(data=data, aes(x=Time, y=Count, group=1)) +
+  geom_line(color="blue")+
+  geom_point() +
+  labs(title="Žmogžudysčių skaičius Panamoje 2000-2016 metais",
+       subtitle="Šaltinis: knoema.com",
+       x="Laikotarpis",
+       y="Skaičius")
+
+data1 <- read_xlsx("./data/panamaGDP.xlsx", col_names = T) 
+
+ggplot(data=data1, aes(x=Time, y=GDPgrowthannual, group=1)) +
+  geom_line(color="green")+
+  geom_point() +
+  labs(title="BVP metinis augimas Panamoje 2000-2016 metais, %",
+       subtitle="Šaltinis: data.worldbank.org",
+       x="Laikotarpis",
+       y="Procentai")
+
+```
+
+Jeigu sulygintumėme grafikus, puikiai pamatytumėme, kad GDP augimas turi įtakos žmogžudysčių skaičiui Panamoje.
+  
+  
+  Šis finansinis prakeiksmas paveikė net ir turtingiausius finansinius centrus, tokius kaip Liuksembrugas. Ši valstybė turi aukščiausią BVP vienam asmeniui ir lenkia tokias šalis kaip Norvegija ir Šveicarija. Iš pirmo žvilgsnio, Liuksemburgas atrodo nuostabioje pozicijoje: turtinga demokratinė valstybė, esanti Vakarų Europoje. Tačiau Gabriel Zucman parodė, kad Liuksemburgas, kaip mokesčių rojus, padėjo kitataučiams, paaukodamas savo tautiečius. Virš 60% darbo jėgos sudaro kitataučiai, kurie  pasinaudoja visais privalumais, sukurtais Liuksemburgo valstybės.
+
+```{r, echo=FALSE}
+#Liuksemburgo 10% gyventojų atlyginimas ir kitos dalies žmonių, kuri sudaro 50% atlyginimas prieš mokesčius
+data2 <- read_xlsx("./data/pajamospriesmoke.xlsx", col_names = T)
+
+ggplot(data=data2, aes(x=Time, y=Pajamos, group=Kategorija)) +
+  geom_line(aes(color=Kategorija))+
+  geom_point(aes(color=Kategorija)) +
+  labs(title="Nacionalinės pajamos Liuksemburge 2000-2016 metais",
+      subtitle="Šaltinis: wid.world",
+      x="Laikotarpis",
+      y="Prieš mokesčius nacionalinės pajamos, tūkst.")
+
+
+```
+
+  Iš grafiko galime matyti, kad pajamų nelygybė šalyje tarp elito, kurio atlyginimai auga nenustojmai ir likusios šalies, kurios atlyginimai stagnuoja jau ilgiau nei 20 metų yra didžiulė. Šis procesas iššaukia kitą problemą Liuksemburge – didėjančios būsto kainos šalyje.
+
+```{r, echo=F}
+#Liuksemburgo NT turto kainų augimas 
+data3 <- read.csv("./data/nominalhouseprices.csv", header = T, sep = ",")
+
+ggplot(data=data3, aes(x=TIME, y=Value))+
+  geom_line(color="cyan")+
+  geom_point() + ylim(74,110) + xlim(2007,2016) + 
+  labs(title="Nominalios nekilnojamojo turto kainos Liuksemburge 2007-2016 metais",
+       subtitle="Šaltinis: data.oecd.org",
+       x="Laikotarpis",
+       y="Koeficientas")
+
+
+```
+  
+  
+  Nors didžiosios dalies žmonių atlyginimai nesikeičia, jie turi prisitaikyti prie nuolat augančių būsto kainų pokyčių. Taip pat Gabriel Zucman pastebėjo, kad didėjančios elito algos nepadeda ir švietimo sistemai, dėl nepalankios mokesčių politikos. Dėl šių veiksnių, Zucman‘as Liuksemburgą vadina „laisvosios prekybos zona“ („free-trade zone“), o ne valstybe.
+  
+#2.3 Pasaulio reakcija į mokesčių rojus
+
+  Žinoma, šie mokesčių optimizavimo būdai valstybių politikams nekelia didelės simpatijos dėl prarandamų mokesčių, išskyrus tuos, kurie patys naudojasi mokesčių rojais, norėdami nuslėpti savo veiklą ir sutaupyti pinigus. Šie korumpuoti politikai yra viena didelė kliūtis, dėl kurios mokesčių rojai vis dar egzistuoja. Kaip kartais yra teigiama, JAV yra bene didžiausia mokesčių rojų valstybė, nes  valstijose kaip Nevada, Delavaras ir Vajominge, labai lengva susikurti anoniminę įmonę, kurioje nevyksta jokia veikla (ang. Shell Companies) @dayen_2016. OECD organizacijoje pasiūlyta automatinė mainymosi informacija, kuri padėtų kovojant su mokesčių rojais, JAV buvo vienintelė valstija iš 100, kuri atsisakė tokio programos plano. Iš to kyla juokingas paradoksas: JAV lengva ranka smerkia Šveicarijos bankus, kurie gina turtingus klientus, tačiau jie nepasiryžę kovoti prieš savo pačių valstijas, iš kurių ji gauna pelną, dėl gaunamų pajamų iš steigiamų kompanijų. Visgi JAV galime pavadinti kaip ir Lietuvą – „Švogerių kraštu“. Norint kovoti prieš šią sistemą, visuomet atsiras pažįstamas, o galbūt ir kampanijos donoras, kuris naudojasi šios sistemos privalumais.
+  
+  Tačiau negalime sakyti, jog pasaulis nieko nedarė prieš šią sistemą. Vykstant globalinei krizei 2009 metais, G-20 valstybės su Amerikos pagalba sutiko didesniam skaidrumui tarp valstybių taip norint pažaboti mokesčių vengimą @globalfinancialintegrity. Sistema buvo tokia: Jei JAV pilietis susikuria banko sąskaitą Šveicarijoje, tai šveicarai automatiškai aprūpina informacija JAV ir atvirkščiai. Taip pat amerikiečiai sukūrė ir savo įstatymą - užsienio sąskaitoms taikomų mokestinių prievolių vykdymo akto įgyvendinimo susitarimą (FATCA), kuris reikalauja automatinės informacijos apie amerikiečius iš kitų šalių. Šis įstatymas susilaukė didelės kritikos dėl priverstinio duomenų rinkimo apie Amerikos piliečius iš užsienio valstybių. Dėl šių veiksmų kritikai JAV įstatymą pavadino imperialistiniu požymiu.
+  
+  Pagal Amerikos FATCA įstatymą ir G20 šalių prašymu OECD sukūrė reglamentą, pagal kurį šalys, kurios pasirašė už bendrąjį duomenų teikimo standartą (ang. Common Reporting Standard), privalo teikti viena kitai informaciją, norėdamos kovoti su įmonėmis, kurios vengia mokesčių. Šiuo metu reglamentu vadovaujasi 109 valstybės, tačiau spragų yra ir čia. Dėl galimų išlaidų renkant ir pateikiant informaciją, besivystančios šalys nebuvo įtrauktos į šį sąrašą, nors jos yra didelės mokesčių rojų maitintojos. Pagal @taxfreetoday_2018 verslo paskyros, kurios egzistavo prieš CRS ir turi mažiau nei $250000 ir toliau bus saugomos, jei bankai ir mokesčių rojai taip nusprendžia (kas labai yra tikėtina). Taip pat „Slaptumo jurisdikcijos“ telkia dėmesį suteikdami gyvenamosios vietos leidimus užsieniečiams jų šalyje. Tuomet užsieniečiai gali atsidaryti sąskaitą ofšorinėje valstybėje, kaip gyventojai ir jų informacija nebus viešinama. Taigi, nors ir OECD reglamentas atrodo patrauklus ir pavojingas ofšorinių valstybių išnaudotojams, mokesčių rojai ir verslininkai randa būdų apeiti šį įstatymą legaliais būdais.
+  
+  Svarbiu klausimu išlieka ir Didžiosios Britanijos ateitis po jos galutinio pasitraukimo iš ES ir jos būsimas finansinis sektorius. Theresa May ir jos kancleris Phillip Hammond paminėjo, kad vienas iš potencialių variantų yra žengti Singapūro keliais, o po jų pasisakė ir kiti ministrai, kad toks finansinis modelis juos tenkintų po pilnai įvykusio Brexit‘o. Singapūras, per paskutinius metus, sparčiai krypsta link ofšorinio finansinio centro ir yra įvertintas 67 balais, kurie nurodo finansinio slaptumo dydį. Šis slaptumas suvilioja potencialius mokesčių vengėjus ir kriminalinio pasaulio atstovus. Taigi, jeigu Didžioji Britanija iš tiesų imtų pavyzdį iš Singapūro, galime tikėtis, jog ji pradės siūlyti itin mažus mokesčius turtingiems atstovams bei mažiausius mokesčius paprastiems žmonėms tarp G-20 šalių, nebeprisidės kovai su pinigų plovimu ir nebepaisys jokių reglamentų, susijusiu su juo @admin2019. Žinoma, visa tai nėra nauja. JK šiuo keliu ėjo jau nuo 1950 metų, kuomet jos buvusios kolonijos kaip Bermuda ir Kaimanų Salos žengė link mažų mokesčių ir didelio finansinio slaptumo. Nors JK turi visas galias sustabdyti šias ofšorines valstybes nuo finansinio slaptumo, vyriausybė sako, kad jeigu ji lįstų į šias buvusias kolonijines šalis, tai ji pažeistų demokratijos sampratą šiose valstybėse. Taigi, jeigu  JK pasiryžtų žengti Singapūro keliu, netolimoje ateityje mes galėtumėme išvysti pilnai išplėtotą „Spider web“ (liet. Voratinklį), kurį ne kartą yra paminėjęs ekonomistas John Christensen.
+
+<P style="page-break-before: always">
+\newpage
+
+# Išvados
+  Taigi, mokesčių rojus teikia didžiulę naudą verslininkams, kurie nori apsaugoti savo pajamas nuo pajamų mokesčio, kurį jie privalėtų sumokėti savo valstybėje. Nors „slaptosios jurisdikcijos“ negauna didelio pelno iš pajamų mokesčio, didelę pinigų dalį jie gauna per metines rinkliavas, kurias privalo susimokėti įmonės, kurios yra registruotos. Kad ir kokie dideli pinigų srautai plauktų į mokesčių rojus, jie niekada nepatirs teigiamų padarinių – juos patiria tik korumpuoti politikai ir verslininkai, kurie džiaugiasi jų sukurta laisvąja prekybos zona. Vietiniai žmonės kenčia nuo didėjančių būsto kainų ir stagnuojančių atlyginimų, o darbo vietos, sukurtos užsienio valstybių, dažniausiai būna užimtos emigrantų, o ne vietinių žmonių. Pasaulio valstybės parodė savo susirūpinimą dėl šios opios problemos sukurdama CRS reglamentą, kuris reikalauja rinkti ir teikti duomenis su valstybėmis, kurios šį reglamentą pasirašė. Deja, verslininkai ir ofšorinės valstybės randa būdų apeiti šį įstatymą, o ir besivystančios šalys nėra įtrauktos į šį projektą. JAV prie CRS reglamento neprisidėjo, tačiau turi savo įstatymą, pagal kurį, ji gali reikalauti įvairios informacijos apie Amerikos piliečius iš užsienio valstybių. Šiuo būdų JAV piliečiams sunkiau nuslėpti mokesčius, tačiau pačioje Amerikoje vis dar galima sukurti anoniminę įmonę, kuri nevykdo jokios veiklos. Taip JAV apsaugo purvinus klientus savo šalyje ir tuo pačiu sutramdo tuos, kurie savo veiklą slepia kitose valstybėse.
+
+<P style="page-break-before: always">
+\newpage
+
+#Literatūra
